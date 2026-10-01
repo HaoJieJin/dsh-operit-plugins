@@ -1,5 +1,7 @@
 # DSH Operit Plugins
 
+**🌐 [English](README.md) | [简体中文](README.zh-CN.md)**
+
 Operit-compatible tool plugins for the DeepSeek Harness (DSH) mobile agent platform.
 
 ## Plugins
